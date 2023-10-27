@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table,td,tr{
+width: 600px;
+margin: auto;
+font-size: 20px;
+padding: 12px;
+text-align: center;
+border: 2px solid #000; 
+border-collapse: collapse;
+}
+.navbar{
+width: 100%;
+background-color: grey;
+text-align: center;
+height: 50%;
+border-style: hidden;
+}   
+.tr1{
+background-color: rgb(74, 166, 74);
+}
+.tr2{
+background-color: rgb(212, 209, 209);
+}
+.tr3{
+background-color: rgb(212, 209, 209);
+}
+.btn1{
+background-color:  green;
+color: #000;
+}
+.btn2{
+background-color: rgb(255, 8, 8);
+color: #000;
+}
+button{
+border-color: rgb(0, 255, 0);
+padding: 4px;
+color: rgb(34, 220, 1);
+width: 60px;
+}
+*{
+padding: 0;
+margin: 0;
+}
+.footer{
+background-color: grey;
+}
+.footercontainer{
+width: 100%;
+padding: 70px, 30px, 20px;
+}
+.socialicons a i{
+color: white;
+margin-top: 20px;
+}
+.footerbottom{
+margin-bottom: 10px;
+}
+.h1{
+    text-align: center;
+    margin-top: 10px;
+    background-color: yellow;
+}
